@@ -972,3 +972,26 @@
     padding: 42px 24px;
   }
 }
+
+.logo-avatar {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid rgba(56, 189, 248, 0.6);
+  box-shadow: 0 0 20px rgba(56, 189, 248, 0.4);
+}
+
+.brand-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-text b {
+  color: #fff;
+}
+
+.brand-text small {
+  color: #94a3b8;
+  font-size: 11px;
+}

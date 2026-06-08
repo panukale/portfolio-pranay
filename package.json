@@ -17,6 +17,7 @@
     "@angular/forms": "^21.2.0",
     "@angular/platform-browser": "^21.2.0",
     "@angular/router": "^21.2.0",
+    "@splinetool/viewer": "^1.12.97",
     "rxjs": "~7.8.0",
     "three": "^0.184.0",
     "tslib": "^2.3.0"
